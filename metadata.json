@@ -1,0 +1,6 @@
+{
+  "name": "FitHome",
+  "description": "Tienda de Deporte en Casa y Fitness - Proyecto Integrador BTP en Informática",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
